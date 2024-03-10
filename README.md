@@ -1,6 +1,6 @@
 # **Flipkart Laptop Listing - EDA**
 
-This repository contains the code and documentation for analyzing the laptop price data extracted from Flipkart. The data has been sourced from [**here**](https://www.kaggle.com/datasets/manjitbaishya001/flipkart-laptop-price-dataset) and the corresponding [Kaggle](https://www.kaggle.com/manjitbaishya001/flipkart-laptop-listing-eda/edit) and GitHub sources have also been linked.
+This repository contains the code and documentation for analyzing the laptop price data extracted from Flipkart. The data has been sourced from [**here**](https://www.kaggle.com/datasets/manjitbaishya001/flipkart-laptop-price-dataset) and the corresponding [**Kaggle**](https://www.kaggle.com/manjitbaishya001/flipkart-laptop-listing-eda/edit) and [**GitHub**](https://github.com/manjit-baishya-datascience/Flipkart-Laptop-Listing---EDA) sources have also been linked.
 
 ## **About the Dataset**
 
@@ -55,7 +55,7 @@ The project involves loading, cleaning, and analyzing the laptop price dataset o
 
 #### Loading the Laptop Price Dataset
 
-The first step involves loading the dataset into a suitable data structure for analysis. Common formats include CSV, Excel, or databases.
+The first step involves loading the dataset into a suitable data structure for analysis.
 
 ### **Step 2:** Exploratory Data Analysis (EDA)
 
