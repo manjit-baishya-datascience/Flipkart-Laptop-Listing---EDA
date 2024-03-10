@@ -7,28 +7,27 @@ This repository contains the code and documentation for analyzing the laptop pri
 
 This project utilizes the laptop price dataset obtained through web scraping on Flipkart. The scraping process was conducted using **AutoScraper**, and the dataset is stored in a CSV file.
 
-## Table of Contents
-- [Author](#author)
-- [Statement of Work](#statement-of-work)
+## Contents
+- [***Author***](#author)
   - [Overview](#overview)
   - [Objectives](#objectives)
   - [Scope of Work](#scope-of-work)
   - [Deliverables](#deliverables)
   - [Timeline and Milestones](#timeline-and-milestones)
-- [Data Analysis](#data-analysis)
-  - [Step 1: Data Loading](#step-1-data-loading)
-  - [Step 2: Exploratory Data Analysis (EDA)](#step-2-exploratory-data-analysis-eda)
-  - [Step 3: Data Cleaning and Preprocessing](#step-3-data-cleaning-and-preprocessing)
-  - [Step 4: Statistical Analysis](#step-4-statistical-analysis)
-  - [Step 5: Visualization](#step-5-visualization)
-- [Conclusion](#conclusion)
+- [***Data Analysis***](#data-analysis)
+  - [**Step 1:** Data Loading](#step-1-data-loading)
+  - [**Step 2:** Exploratory Data Analysis (EDA)](#step-2-exploratory-data-analysis-eda)
+  - [**Step 3:** Data Cleaning and Preprocessing](#step-3-data-cleaning-and-preprocessing)
+  - [**Step 4:** Statistical Analysis](#step-4-statistical-analysis)
+  - [**Step 5:** Visualization](#step-5-visualization)
+- [***Conclusion***](#conclusion)
 
 ## **Author**
 
-**Your Name:** Manjit Baishya  
-**Start Date:** 26/11/2023  
-**Project Status:** Completed
-**End Date:** 27/11/2023
+**Your Name:** Manjit Baishya <br>
+**Start Date:** 26/11/2023 <br>
+**Project Status:** Completed <br>
+**End Date:** 27/11/2023 <br>
 
 ## **Statement of Work**
 
@@ -43,14 +42,6 @@ The project involves loading, cleaning, and analyzing the laptop price dataset o
 3. Clean and preprocess the data.
 4. Perform statistical analysis.
 5. Create visualizations for better understanding.
-
-### Scope of Work
-
-The analysis encompasses loading the data, conducting EDA, cleaning and preprocessing, statistical analysis, and visualization.
-
-### Deliverables
-
-The project will result in a comprehensive report detailing the findings, insights, and recommendations based on the analysis of the laptop price dataset.
 
 ### Timeline and Milestones
 
@@ -97,4 +88,5 @@ In conclusion, this phase of the project focuses on extracting actionable insigh
 
 Feel free to explore the code, documentation, and reports in the repository to gain insights into the entire data analysis process.
 
-**Happy analyzing!**
+---
+# **THANK YOU** 
