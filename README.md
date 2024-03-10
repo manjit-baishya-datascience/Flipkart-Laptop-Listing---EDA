@@ -1,17 +1,14 @@
-# **Data Analysis of Laptop Prices from Flipkart**
+# **Flipkart Laptop Listing - EDA**
+![Source File.jpg](attachment:97bf2bfe-b01f-4418-baf6-91e40ee6cea9.jpg)
 
-## **Overview**
+This repository contains the code and documentation for analyzing the laptop price data extracted from Flipkart. The data has been sourced from [**here**](https://www.kaggle.com/datasets/manjitbaishya001/flipkart-laptop-price-dataset) and the corresponding [Kaggle](https://www.kaggle.com/manjitbaishya001/flipkart-laptop-listing-eda/edit) and GitHub sources have also been linked.
 
-Welcome to the "Data Analysis of Laptop Prices from Flipkart" project! This repository contains the code and documentation for analyzing the laptop price data extracted from Flipkart. The project commenced on November 26, 2023, and builds upon the web scraping project, transitioning into the **data analysis** phase.
-
-## **Source**
+## **About the Dataset**
 
 This project utilizes the laptop price dataset obtained through web scraping on Flipkart. The scraping process was conducted using **AutoScraper**, and the dataset is stored in a CSV file.
 
 ## Table of Contents
-- [Business Question](#business-question)
 - [Author](#author)
-- [Scenario](#scenario)
 - [Statement of Work](#statement-of-work)
   - [Overview](#overview)
   - [Objectives](#objectives)
@@ -26,20 +23,12 @@ This project utilizes the laptop price dataset obtained through web scraping on 
   - [Step 5: Visualization](#step-5-visualization)
 - [Conclusion](#conclusion)
 
-## **Business Question**
-
-What insights can be derived from the dataset of laptop prices from Flipkart, and how can these insights inform pricing strategies and market positioning?
-
 ## **Author**
 
 **Your Name:** Manjit Baishya  
 **Start Date:** 26/11/2023  
 **Project Status:** Completed
 **End Date:** 27/11/2023
-
-## **Scenario**
-
-Building upon the web scraping project, this phase involves analyzing the dataset to gain valuable insights into laptop prices from Flipkart. The analysis aims to provide actionable recommendations for pricing strategies and market positioning.
 
 ## **Statement of Work**
 
