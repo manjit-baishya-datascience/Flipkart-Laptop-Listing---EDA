@@ -1,4 +1,5 @@
 # **Flipkart Laptop Listing - EDA**
+![download](https://github.com/manjit-baishya-datascience/Flipkart-Laptop-Listing-EDA/assets/127611924/bccebdd2-8543-434c-b689-74ee660c0540)
 
 This repository contains the code and documentation for analyzing the laptop price data extracted from Flipkart. The data has been sourced from [**here**](https://www.kaggle.com/datasets/manjitbaishya001/flipkart-laptop-price-dataset) and the corresponding [**Kaggle**](https://www.kaggle.com/manjitbaishya001/flipkart-laptop-listing-eda) and [**GitHub**](https://github.com/manjit-baishya-datascience/Flipkart-Laptop-Listing---EDA) sources have also been linked.
 
